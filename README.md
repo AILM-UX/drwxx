@@ -10,7 +10,7 @@ Accurate object attribute recognition is crucial for intelligent robots to effic
 ## <p align="center"> FRAMEWORK DIAGRAM OF AN ATTRIBUTE RECOGNITION METHOD</p>
 In this work, the framework we propose consists of two main component. The first part is the ST attention-based VTDF module, which enables organic interaction and fusion of input visual and tactile data, generating fused visual-tactile features that are fully interacted in terms of inter-modal and ST information. The second part is the cross-task attention-driven MTL module. The fused visual-tactile features obtained from the first part serve as shared features within the MTL module, facilitating inter-task information interaction and fusion to output recognition results for multiple object attributes.
 
-![image](https://github.com/C-128391/Vibrotactile-Modeling/blob/main/Framework%20diagram%20of%20an%20attribute%20recognition%20method.png)
+![image](https://github.com/C-128391/Vibrotactile-Modeling/raw/main/Framework%20diagram%20of%20an%20attribute%20recognition%20method.png)
 ## <p align="center">DETAILS OF IMPLEMENT</p>
 This project includes scripts for requirements, model training and testing.
 
